@@ -18,9 +18,23 @@ Tracktoger es una aplicación Flutter para la gestión integral de maquinaria in
 |:----------:|:-------------:|
 | ![Registrar contrato](screenshots/registrar_contrato.jpg) | ![Mantenimiento](screenshots/mantenimiento.jpg) |
 
-| Registros | Perfil |
-|:---------:|:------:|
-| ![Registrar maquinaria](screenshots/registrar_maquinaria.jpg) | ![Perfil](screenshots/perfil.jpg) |
+**Mantenimiento - Vistas internas**
+
+| Vista 1 | Vista 2 | Vista 3 |
+|:-------:|:-------:|:-------:|
+| ![Mantenimiento Vista 1](screenshots/mantenimiento1.jpg) | ![Mantenimiento Vista 2](screenshots/matenimiento2.jpg) | ![Mantenimiento Vista 3](screenshots/matenimiento3.jpg) |
+
+| Registrar maquinaria | Registrar herramienta | Registrar cliente |
+|:--------------------:|:---------------------:|:-----------------:|
+| ![Registrar maquinaria](screenshots/registrar_maquinaria.jpg) | ![Registrar herramienta](screenshots/registrar_herramienta.jpg) | ![Registrar cliente](screenshots/registrar_cliente.jpg) |
+
+| Crear cuenta (Registro) | Registro mantenimiento |
+|:----------------------:|:----------------------:|
+| ![Crear cuenta](screenshots/registro.jpg) | ![Registro mantenimiento](screenshots/registro_mantenimiento.jpg) |
+
+| Perfil | Editar perfil | Recuperar contraseña |
+|:------:|:-------------:|:--------------------:|
+| ![Perfil](screenshots/perfil.jpg) | ![Editar perfil](screenshots/editar_perfil.jpg) | ![Recuperar contraseña](screenshots/recuperar_contraseña.jpg) |
 
 ## Características Principales
 
