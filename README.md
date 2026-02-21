@@ -4,6 +4,24 @@
 
 Tracktoger es una aplicación Flutter para la gestión integral de maquinaria industrial, incluyendo inventario, alquileres, mantenimiento predictivo y reportes.
 
+## Capturas de pantalla
+
+| Login | Pantalla de carga | Inicio |
+|:-----:|:-----------------:|:------:|
+| ![Login](screenshots/login.jpg) | ![Pantalla de carga](screenshots/pantalla_carga.jpg) | ![Inicio](screenshots/inicio.jpg) |
+
+| Dashboard | Inventario | Panel Admin |
+|:---------:|:----------:|:-----------:|
+| ![Dashboard](screenshots/dashboard.jpg) | ![Inventario](screenshots/inventario.jpg) | ![Panel Admin](screenshots/panel_admi.jpg) |
+
+| Alquileres | Mantenimiento |
+|:----------:|:-------------:|
+| ![Registrar contrato](screenshots/registrar_contrato.jpg) | ![Mantenimiento](screenshots/mantenimiento.jpg) |
+
+| Registros | Perfil |
+|:---------:|:------:|
+| ![Registrar maquinaria](screenshots/registrar_maquinaria.jpg) | ![Perfil](screenshots/perfil.jpg) |
+
 ## Características Principales
 
 ### 🏗️ Gestión de Maquinaria
