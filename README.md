@@ -6,9 +6,9 @@ Tracktoger es una aplicación Flutter para la gestión integral de maquinaria in
 
 ## Capturas de pantalla
 
-| Login | Pantalla de carga | Inicio |
-|:-----:|:-----------------:|:------:|
-| ![Login](screenshots/login.jpg) | ![Pantalla de carga](screenshots/pantalla_carga.jpg) | ![Inicio](screenshots/inicio.jpg) |
+| Pantalla de carga | Login | Inicio |
+|:-----------------:|:-----:|:------:|
+| ![Pantalla de carga](screenshots/pantalla_carga.jpg) | ![Login](screenshots/login.jpg) | ![Inicio](screenshots/inicio.jpg) |
 
 | Dashboard | Inventario | Panel Admin |
 |:---------:|:----------:|:-----------:|
